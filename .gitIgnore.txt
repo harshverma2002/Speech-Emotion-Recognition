@@ -1,0 +1,5 @@
+#ignore folder
+dataset
+
+#ignore audio files
+*.wav
